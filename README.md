@@ -13,5 +13,11 @@ Request para API retornando o objeto calculado
 - Typescript
 - Axios
 
+## Tech do backend 
+API Rest para processamento dos cálculos.
+- .NET 8
+- xUnit
+
+
 ## Colaborador
 - [@EmmanuelMartins21](https://github.com/EmmanuelMartins21) ➡ [LinkedIn](https://www.linkedin.com/in/emmanuel-cosme-martins-bento-3963bb1b9/)
