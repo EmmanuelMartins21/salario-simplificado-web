@@ -1,7 +1,7 @@
 // src/components/forms/ImpostoForm.tsx
 import React, { useState } from "react";
-import { ImpostoRequest } from "../../../services/interfaces/ImpostoRequest";
-import { sendFormData } from "../../../services/SendForm";
+import { ImpostoRequest } from "../../types/ImpostoRequest";
+import { sendFormData } from "../../api/SendForm";
 import './ImpostoForm.css';
 
 const ImpostoForm: React.FC = () => {
